@@ -1,0 +1,334 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lex\\programming\\visual basic\\Foodmatch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{932F29CE-E502-47DA-9EF8-B5D7BBF4076F}|Foodmatch\\Foodmatch.vbproj|d:\\lex\\programming\\visual basic\\foodmatch\\foodmatch\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{932F29CE-E502-47DA-9EF8-B5D7BBF4076F}|Foodmatch\\Foodmatch.vbproj|solutionrelative:foodmatch\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932F29CE-E502-47DA-9EF8-B5D7BBF4076F}|Foodmatch\\Foodmatch.vbproj|d:\\lex\\programming\\visual basic\\foodmatch\\foodmatch\\controller\\crohncontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{932F29CE-E502-47DA-9EF8-B5D7BBF4076F}|Foodmatch\\Foodmatch.vbproj|solutionrelative:foodmatch\\controller\\crohncontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932F29CE-E502-47DA-9EF8-B5D7BBF4076F}|Foodmatch\\Foodmatch.vbproj|D:\\Lex\\programming\\visual basic\\Foodmatch\\foodmatch\\model\\celiacmodel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{932F29CE-E502-47DA-9EF8-B5D7BBF4076F}|Foodmatch\\Foodmatch.vbproj|solutionrelative:foodmatch\\model\\celiacmodel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932F29CE-E502-47DA-9EF8-B5D7BBF4076F}|Foodmatch\\Foodmatch.vbproj|D:\\Lex\\programming\\visual basic\\Foodmatch\\foodmatch\\controller\\celiaccontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{932F29CE-E502-47DA-9EF8-B5D7BBF4076F}|Foodmatch\\Foodmatch.vbproj|solutionrelative:foodmatch\\controller\\celiaccontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932F29CE-E502-47DA-9EF8-B5D7BBF4076F}|Foodmatch\\Foodmatch.vbproj|D:\\Lex\\programming\\visual basic\\Foodmatch\\foodmatch\\controller\\uccontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{932F29CE-E502-47DA-9EF8-B5D7BBF4076F}|Foodmatch\\Foodmatch.vbproj|solutionrelative:foodmatch\\controller\\uccontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932F29CE-E502-47DA-9EF8-B5D7BBF4076F}|Foodmatch\\Foodmatch.vbproj|D:\\Lex\\programming\\visual basic\\Foodmatch\\foodmatch\\controller\\uccontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{932F29CE-E502-47DA-9EF8-B5D7BBF4076F}|Foodmatch\\Foodmatch.vbproj|solutionrelative:foodmatch\\controller\\uccontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932F29CE-E502-47DA-9EF8-B5D7BBF4076F}|Foodmatch\\Foodmatch.vbproj|D:\\Lex\\programming\\visual basic\\Foodmatch\\foodmatch\\view\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{932F29CE-E502-47DA-9EF8-B5D7BBF4076F}|Foodmatch\\Foodmatch.vbproj|solutionrelative:foodmatch\\view\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932F29CE-E502-47DA-9EF8-B5D7BBF4076F}|Foodmatch\\Foodmatch.vbproj|D:\\Lex\\programming\\visual basic\\Foodmatch\\foodmatch\\view\\formcd.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{932F29CE-E502-47DA-9EF8-B5D7BBF4076F}|Foodmatch\\Foodmatch.vbproj|solutionrelative:foodmatch\\view\\formcd.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932F29CE-E502-47DA-9EF8-B5D7BBF4076F}|Foodmatch\\Foodmatch.vbproj|D:\\Lex\\programming\\visual basic\\Foodmatch\\foodmatch\\view\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{932F29CE-E502-47DA-9EF8-B5D7BBF4076F}|Foodmatch\\Foodmatch.vbproj|solutionrelative:foodmatch\\view\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932F29CE-E502-47DA-9EF8-B5D7BBF4076F}|Foodmatch\\Foodmatch.vbproj|D:\\Lex\\programming\\visual basic\\Foodmatch\\foodmatch\\controller\\ibscontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{932F29CE-E502-47DA-9EF8-B5D7BBF4076F}|Foodmatch\\Foodmatch.vbproj|solutionrelative:foodmatch\\controller\\ibscontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932F29CE-E502-47DA-9EF8-B5D7BBF4076F}|Foodmatch\\Foodmatch.vbproj|D:\\Lex\\programming\\visual basic\\Foodmatch\\foodmatch\\controller\\gerdcontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{932F29CE-E502-47DA-9EF8-B5D7BBF4076F}|Foodmatch\\Foodmatch.vbproj|solutionrelative:foodmatch\\controller\\gerdcontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932F29CE-E502-47DA-9EF8-B5D7BBF4076F}|Foodmatch\\Foodmatch.vbproj|D:\\Lex\\programming\\visual basic\\Foodmatch\\foodmatch\\view\\formcrohn.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{932F29CE-E502-47DA-9EF8-B5D7BBF4076F}|Foodmatch\\Foodmatch.vbproj|solutionrelative:foodmatch\\view\\formcrohn.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932F29CE-E502-47DA-9EF8-B5D7BBF4076F}|Foodmatch\\Foodmatch.vbproj|D:\\Lex\\programming\\visual basic\\Foodmatch\\foodmatch\\view\\formgerd.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{932F29CE-E502-47DA-9EF8-B5D7BBF4076F}|Foodmatch\\Foodmatch.vbproj|solutionrelative:foodmatch\\view\\formgerd.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932F29CE-E502-47DA-9EF8-B5D7BBF4076F}|Foodmatch\\Foodmatch.vbproj|D:\\Lex\\programming\\visual basic\\Foodmatch\\foodmatch\\view\\formibs.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{932F29CE-E502-47DA-9EF8-B5D7BBF4076F}|Foodmatch\\Foodmatch.vbproj|solutionrelative:foodmatch\\view\\formibs.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932F29CE-E502-47DA-9EF8-B5D7BBF4076F}|Foodmatch\\Foodmatch.vbproj|D:\\Lex\\programming\\visual basic\\Foodmatch\\foodmatch\\view\\formuc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{932F29CE-E502-47DA-9EF8-B5D7BBF4076F}|Foodmatch\\Foodmatch.vbproj|solutionrelative:foodmatch\\view\\formuc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932F29CE-E502-47DA-9EF8-B5D7BBF4076F}|Foodmatch\\Foodmatch.vbproj|D:\\Lex\\programming\\visual basic\\Foodmatch\\foodmatch\\model\\crohnmodel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{932F29CE-E502-47DA-9EF8-B5D7BBF4076F}|Foodmatch\\Foodmatch.vbproj|solutionrelative:foodmatch\\model\\crohnmodel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932F29CE-E502-47DA-9EF8-B5D7BBF4076F}|Foodmatch\\Foodmatch.vbproj|D:\\Lex\\programming\\visual basic\\Foodmatch\\foodmatch\\view\\formcd.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{932F29CE-E502-47DA-9EF8-B5D7BBF4076F}|Foodmatch\\Foodmatch.vbproj|solutionrelative:foodmatch\\view\\formcd.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932F29CE-E502-47DA-9EF8-B5D7BBF4076F}|Foodmatch\\Foodmatch.vbproj|D:\\Lex\\programming\\visual basic\\Foodmatch\\foodmatch\\controller\\celiaccontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{932F29CE-E502-47DA-9EF8-B5D7BBF4076F}|Foodmatch\\Foodmatch.vbproj|solutionrelative:foodmatch\\controller\\celiaccontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932F29CE-E502-47DA-9EF8-B5D7BBF4076F}|Foodmatch\\Foodmatch.vbproj|D:\\Lex\\programming\\visual basic\\Foodmatch\\foodmatch\\controller\\crohncontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{932F29CE-E502-47DA-9EF8-B5D7BBF4076F}|Foodmatch\\Foodmatch.vbproj|solutionrelative:foodmatch\\controller\\crohncontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932F29CE-E502-47DA-9EF8-B5D7BBF4076F}|Foodmatch\\Foodmatch.vbproj|D:\\Lex\\programming\\visual basic\\Foodmatch\\foodmatch\\view\\formuc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{932F29CE-E502-47DA-9EF8-B5D7BBF4076F}|Foodmatch\\Foodmatch.vbproj|solutionrelative:foodmatch\\view\\formuc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 417,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\Lex\\programming\\visual basic\\Foodmatch\\Foodmatch\\.gitignore",
+              "RelativeDocumentMoniker": "Foodmatch\\.gitignore",
+              "ToolTip": "D:\\Lex\\programming\\visual basic\\Foodmatch\\Foodmatch\\.gitignore",
+              "RelativeToolTip": "Foodmatch\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-26T18:55:47.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CeliacModel.vb",
+              "DocumentMoniker": "D:\\Lex\\programming\\visual basic\\Foodmatch\\Foodmatch\\Model\\CeliacModel.vb",
+              "RelativeDocumentMoniker": "Foodmatch\\Model\\CeliacModel.vb",
+              "ToolTip": "D:\\Lex\\programming\\visual basic\\Foodmatch\\Foodmatch\\Model\\CeliacModel.vb",
+              "RelativeToolTip": "Foodmatch\\Model\\CeliacModel.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-23T12:46:31.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.vb [Design]",
+              "DocumentMoniker": "D:\\Lex\\programming\\visual basic\\Foodmatch\\Foodmatch\\View\\MainForm.vb",
+              "RelativeDocumentMoniker": "Foodmatch\\View\\MainForm.vb",
+              "ToolTip": "D:\\Lex\\programming\\visual basic\\Foodmatch\\Foodmatch\\View\\MainForm.vb [Design]",
+              "RelativeToolTip": "Foodmatch\\View\\MainForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-17T13:38:49.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormCD.vb [Design]",
+              "DocumentMoniker": "D:\\Lex\\programming\\visual basic\\Foodmatch\\Foodmatch\\View\\FormCD.vb",
+              "RelativeDocumentMoniker": "Foodmatch\\View\\FormCD.vb",
+              "ToolTip": "D:\\Lex\\programming\\visual basic\\Foodmatch\\Foodmatch\\View\\FormCD.vb [Design]",
+              "RelativeToolTip": "Foodmatch\\View\\FormCD.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-16T06:20:24.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormGERD.vb [Design]",
+              "DocumentMoniker": "D:\\Lex\\programming\\visual basic\\Foodmatch\\Foodmatch\\View\\FormGERD.vb",
+              "RelativeDocumentMoniker": "Foodmatch\\View\\FormGERD.vb",
+              "ToolTip": "D:\\Lex\\programming\\visual basic\\Foodmatch\\Foodmatch\\View\\FormGERD.vb [Design]",
+              "RelativeToolTip": "Foodmatch\\View\\FormGERD.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-16T06:53:26.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormUC.vb [Design]",
+              "DocumentMoniker": "D:\\Lex\\programming\\visual basic\\Foodmatch\\Foodmatch\\View\\FormUC.vb",
+              "RelativeDocumentMoniker": "Foodmatch\\View\\FormUC.vb",
+              "ToolTip": "D:\\Lex\\programming\\visual basic\\Foodmatch\\Foodmatch\\View\\FormUC.vb [Design]",
+              "RelativeToolTip": "Foodmatch\\View\\FormUC.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-16T06:15:02.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CeliacController.vb",
+              "DocumentMoniker": "D:\\Lex\\programming\\visual basic\\Foodmatch\\Foodmatch\\Controller\\CeliacController.vb",
+              "RelativeDocumentMoniker": "Foodmatch\\Controller\\CeliacController.vb",
+              "ToolTip": "D:\\Lex\\programming\\visual basic\\Foodmatch\\Foodmatch\\Controller\\CeliacController.vb",
+              "RelativeToolTip": "Foodmatch\\Controller\\CeliacController.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswBQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-16T06:20:57.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CrohnController.vb",
+              "DocumentMoniker": "D:\\Lex\\programming\\visual basic\\Foodmatch\\Foodmatch\\Controller\\CrohnController.vb",
+              "RelativeDocumentMoniker": "Foodmatch\\Controller\\CrohnController.vb",
+              "ToolTip": "D:\\Lex\\programming\\visual basic\\Foodmatch\\Foodmatch\\Controller\\CrohnController.vb",
+              "RelativeToolTip": "Foodmatch\\Controller\\CrohnController.vb",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAmwH0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-16T06:54:28.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GERDController.vb",
+              "DocumentMoniker": "D:\\Lex\\programming\\visual basic\\Foodmatch\\Foodmatch\\Controller\\GERDController.vb",
+              "RelativeDocumentMoniker": "Foodmatch\\Controller\\GERDController.vb",
+              "ToolTip": "D:\\Lex\\programming\\visual basic\\Foodmatch\\Foodmatch\\Controller\\GERDController.vb",
+              "RelativeToolTip": "Foodmatch\\Controller\\GERDController.vb",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAiwMMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-16T06:59:03.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UCController.vb",
+              "DocumentMoniker": "D:\\Lex\\programming\\visual basic\\Foodmatch\\Foodmatch\\Controller\\UCController.vb",
+              "RelativeDocumentMoniker": "Foodmatch\\Controller\\UCController.vb",
+              "ToolTip": "D:\\Lex\\programming\\visual basic\\Foodmatch\\Foodmatch\\Controller\\UCController.vb",
+              "RelativeToolTip": "Foodmatch\\Controller\\UCController.vb",
+              "ViewState": "AQIAABUAAAAAAAAAAAAmwEUAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-16T06:17:03.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UCController.vb [Design]",
+              "DocumentMoniker": "D:\\Lex\\programming\\visual basic\\Foodmatch\\Foodmatch\\Controller\\UCController.vb",
+              "RelativeDocumentMoniker": "Foodmatch\\Controller\\UCController.vb",
+              "ToolTip": "D:\\Lex\\programming\\visual basic\\Foodmatch\\Foodmatch\\Controller\\UCController.vb [Design]",
+              "RelativeToolTip": "Foodmatch\\Controller\\UCController.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-16T06:17:00.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBSController.vb",
+              "DocumentMoniker": "D:\\Lex\\programming\\visual basic\\Foodmatch\\Foodmatch\\Controller\\IBSController.vb",
+              "RelativeDocumentMoniker": "Foodmatch\\Controller\\IBSController.vb",
+              "ToolTip": "D:\\Lex\\programming\\visual basic\\Foodmatch\\Foodmatch\\Controller\\IBSController.vb",
+              "RelativeToolTip": "Foodmatch\\Controller\\IBSController.vb",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAqwHoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-16T06:17:16.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainForm.vb",
+              "DocumentMoniker": "D:\\Lex\\programming\\visual basic\\Foodmatch\\Foodmatch\\View\\MainForm.vb",
+              "RelativeDocumentMoniker": "Foodmatch\\View\\MainForm.vb",
+              "ToolTip": "D:\\Lex\\programming\\visual basic\\Foodmatch\\Foodmatch\\View\\MainForm.vb",
+              "RelativeToolTip": "Foodmatch\\View\\MainForm.vb",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAQwJQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-17T13:39:41.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormCrohn.vb [Design]",
+              "DocumentMoniker": "D:\\Lex\\programming\\visual basic\\Foodmatch\\Foodmatch\\View\\FormCrohn.vb",
+              "RelativeDocumentMoniker": "Foodmatch\\View\\FormCrohn.vb",
+              "ToolTip": "D:\\Lex\\programming\\visual basic\\Foodmatch\\Foodmatch\\View\\FormCrohn.vb [Design]",
+              "RelativeToolTip": "Foodmatch\\View\\FormCrohn.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-16T06:53:25.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormIBS.vb [Design]",
+              "DocumentMoniker": "D:\\Lex\\programming\\visual basic\\Foodmatch\\Foodmatch\\View\\FormIBS.vb",
+              "RelativeDocumentMoniker": "Foodmatch\\View\\FormIBS.vb",
+              "ToolTip": "D:\\Lex\\programming\\visual basic\\Foodmatch\\Foodmatch\\View\\FormIBS.vb [Design]",
+              "RelativeToolTip": "Foodmatch\\View\\FormIBS.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-16T06:14:55.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CrohnModel.vb",
+              "DocumentMoniker": "D:\\Lex\\programming\\visual basic\\Foodmatch\\Foodmatch\\Model\\CrohnModel.vb",
+              "RelativeDocumentMoniker": "Foodmatch\\Model\\CrohnModel.vb",
+              "ToolTip": "D:\\Lex\\programming\\visual basic\\Foodmatch\\Foodmatch\\Model\\CrohnModel.vb",
+              "RelativeToolTip": "Foodmatch\\Model\\CrohnModel.vb",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-16T06:55:53.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormCD.vb",
+              "DocumentMoniker": "D:\\Lex\\programming\\visual basic\\Foodmatch\\Foodmatch\\View\\FormCD.vb",
+              "RelativeDocumentMoniker": "Foodmatch\\View\\FormCD.vb",
+              "ToolTip": "D:\\Lex\\programming\\visual basic\\Foodmatch\\Foodmatch\\View\\FormCD.vb",
+              "RelativeToolTip": "Foodmatch\\View\\FormCD.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-16T06:53:23.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormUC.vb",
+              "DocumentMoniker": "D:\\Lex\\programming\\visual basic\\Foodmatch\\Foodmatch\\View\\FormUC.vb",
+              "RelativeDocumentMoniker": "Foodmatch\\View\\FormUC.vb",
+              "ToolTip": "D:\\Lex\\programming\\visual basic\\Foodmatch\\Foodmatch\\View\\FormUC.vb",
+              "RelativeToolTip": "Foodmatch\\View\\FormUC.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-16T06:22:47.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CeliacController.vb [Design]",
+              "DocumentMoniker": "D:\\Lex\\programming\\visual basic\\Foodmatch\\Foodmatch\\Controller\\CeliacController.vb",
+              "RelativeDocumentMoniker": "Foodmatch\\Controller\\CeliacController.vb",
+              "ToolTip": "D:\\Lex\\programming\\visual basic\\Foodmatch\\Foodmatch\\Controller\\CeliacController.vb [Design]",
+              "RelativeToolTip": "Foodmatch\\Controller\\CeliacController.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-16T06:51:47.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CrohnController.vb [Design]",
+              "DocumentMoniker": "D:\\Lex\\programming\\visual basic\\Foodmatch\\Foodmatch\\Controller\\CrohnController.vb",
+              "RelativeDocumentMoniker": "Foodmatch\\Controller\\CrohnController.vb",
+              "ToolTip": "D:\\Lex\\programming\\visual basic\\Foodmatch\\Foodmatch\\Controller\\CrohnController.vb [Design]",
+              "RelativeToolTip": "Foodmatch\\Controller\\CrohnController.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-16T06:51:50.592Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
